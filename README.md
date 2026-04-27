@@ -1,10 +1,3 @@
-# Animatronic Eyes — AES-5
-
-![Arduino Uno](https://img.shields.io/badge/Arduino-Uno_R3-00979D?logo=arduino)
-![Servos](https://img.shields.io/badge/servos-5-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
-
----
 
 ##  Демонстрация проекта
 
@@ -16,13 +9,13 @@
 
 ### Схема подключения
 
-![Wiring Diagram](images/wiring.png)
+![Wiring Diagram](images/schematic.png)
 
 *Подключение сервоприводов к Arduino Uno*
 
 ### Видео работы
 
-[▶️ Смотреть видео на YouTube](https://youtu.be/ВАША_ССЫЛКА)
+[▶️ Смотреть видео на YouTube](https://youtu.be/https://youtu.be/TIfWXYkp28Y)
 
 > 📹 *Демонстрация движения глаз и моргания*
 
