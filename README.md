@@ -13,12 +13,9 @@
 
 *Подключение сервоприводов к Arduino Uno*
 
-### Видео работы
+##  Видео работы
 
-[▶️ Смотреть видео на YouTube](https://youtu.be/https://youtu.be/TIfWXYkp28Y)
-
-> 📹 *Демонстрация движения глаз и моргания*
-
+ [Смотреть демонстрацию на YouTube](https://www.youtube.com/watch?v=TIfWXYkp28Y)
 
 
 
